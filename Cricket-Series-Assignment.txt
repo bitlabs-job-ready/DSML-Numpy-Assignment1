@@ -1,0 +1,41 @@
+In the summer of 2024, an exciting cricket series took place between two  teams, the Tigers and the Eagles. The matches were filled with thrilling moments and outstanding performances. After the series, the cricket board decided to analyze the players' performances to identify key contributors and understand the overall team performance. 
+
+For this You are provided with two lists containing data from a cricket series. 
+
+ 
+
+The first list contains the number of runs scored by each player in different matches, 
+
+ 
+
+runs = [54, 78, 23, 89, 101, 56, 45, 67, 90, 33, 23, 76, 85, 95, 41, 65, 75, 80, 45, 29, 34, 78, 92, 101, 50, 60, 71, 66, 85, 47] 
+
+ 
+
+The second list contains the number of balls faced by the players in those matches. 
+
+ 
+
+balls = [60, 70, 30, 95, 110, 65, 50, 75, 100, 45, 35, 85, 100, 120, 55, 70, 80, 85, 60, 40, 50, 80, 105, 115, 55, 70, 80, 75, 90, 55] 
+
+ 
+
+Now solve the questions asked by cricket board 
+
+ 
+
+1. How many different players contributed runs in the series? 
+
+2. What is the total number of runs scored in the series? 
+
+3. What is the total number of balls faced by players in the series? 
+
+4. What is the average strike rate of the players? 
+
+5. Who scored the highest number of runs in a single match? 
+
+6. What is the average number of runs scored per match? 
+
+7. What is the total number of runs scored by all players who scored more than 50 runs in a match? 
+
+ 
